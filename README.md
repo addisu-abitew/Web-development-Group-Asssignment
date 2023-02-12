@@ -1,6 +1,7 @@
 # Web-development-Group-Asssignment
 # Ecommerce Website
 ## Group members
+Admin account email semhamirid@gmail.com password abebebesobela
 | No | Name | ID |Section|
 | ------ | ------ | ------ |------ |
 |1| Semir Hamid | UGR/9690/13| 1|
