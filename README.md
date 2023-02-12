@@ -10,14 +10,14 @@
 |5| Selam Yemiru | UGR/4870/13| 3|
 
 # Frontend Specification
-=> Boostrap 
-=> Html
-=> css
+## Boostrap 
+## Html
+## css
 
 #Backend Specification
-=> Nestjs
-=> Prisma
-=> Postgressql
+## Nestjs
+## Prisma
+## Postgressql
 
 ## Installation Instructions
 Yarn package manager package available (https://www.nuget.org/packages/Postgres.BackupandRestoreDatabase)
@@ -30,7 +30,7 @@ dotnet add package Postgres.BackupandRestoreDatabase --version 1.4.1
 ```
 
 
-# Nestjs W
+# Nestjs
 
 
 ## Before getting started
