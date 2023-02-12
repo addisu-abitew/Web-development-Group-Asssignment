@@ -8,3 +8,13 @@
 |3| Bilen Mehalek | UGR/0252/13| 1|
 |4| Addisu Abitew | UGR/7259/13| 3|
 |5| Selam Yemiru | UGR/4870/13| 3|
+
+# Frontend Specification
+=> Boostrap 
+=> Html
+=> css
+
+#Backend Specification
+=> Nestjs
+=> Prisma
+=> Postgressql
