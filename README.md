@@ -21,11 +21,13 @@
 
 
 # Why we used postgressql/ Relational DB
-## Since ecommerce sites handles well-structured data. As the tables standardise the data, a relational database makes it easier to store, update and retrieve specific datasets using SQL queries. This data can be more easily formed into accurate reports as it’s all in one format. In a non-relational database, the data is unstructured, which can make it difficult to make sweeping changes to it or make accurate queries.
+Since ecommerce sites handles well-structured data. As the tables standardise the data, a relational database makes it easier to store, update and retrieve specific datasets using SQL queries. This data can be more easily formed into accurate reports as it’s all in one format. In a non-relational database, the data is unstructured, which can make it difficult to make sweeping changes to it or make accurate queries.
 
-## This is referred to as normalisation, and helps to reduce data deduplication. This term means that redundant data is eliminated as much as possible.
+This is referred to as normalisation, and helps to reduce data deduplication. This term means that redundant data is eliminated as much as possible.
 The relational database model is mature and widely recognised, so from a practicality perspective, it’s generally easier for developers to work with..
 It helps to visualise the data and its relationships, as well as gather results from it. However, it comes with drawbacks.
+
+SQL database systems were invented to handle the kind of data management problems that e-commerce systems — and commerce systems in general — present. Most NoSQL systems are wholly unsuitable for handling e-commerce, given they’re more suited to specialist problems like rapid full-text search of documents, or high performance retrieval of specific object types where concurrent write-frequency is measured in kilohertz.
 
 
 
